@@ -5,7 +5,6 @@ This repository contains all the "special cases" of objects that I
 know of.
 
 The (Perl) program used to build it can be found at:
-http://github.com/book/git-test-repo-tool/
 
 The test repository itself is entirely regenerated whenever I update the
 builder script. If you use it in your tests, you should generate a bundle
